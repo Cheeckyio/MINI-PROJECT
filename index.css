@@ -8,7 +8,7 @@ button:first-of-type {
     border-radius: 5px;
 }
 
-/* Second button - Blue */
+/* Second button - Blue
 button:last-of-type {
     background-color: blue;
     color: white;
@@ -17,7 +17,7 @@ button:last-of-type {
     font-size: 16px;
     cursor: pointer;
     border-radius: 5px;
-}
+} */
 
 /* Optional: Add hover effects */
 button:first-of-type:hover {
